@@ -2,7 +2,7 @@ Astropolis is a simulation game that explores human expansion and evolution in o
 
 Astropolis will be highly moddable. It is NOT open source!
 
-### Astropolis Links
+#### Links
 * [About page](https://t2civ.com/about/)
 * [Homepage & dev blog (t2civ.com)](https://t2civ.com/)
 * [Discussion subforum at I, Voyager](https://www.ivoyager.dev/forum/index.php?p=/categories/astropolis)
