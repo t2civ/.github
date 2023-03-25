@@ -8,5 +8,5 @@ Astropolis will be highly moddable. It is NOT open source!
 * [Discussion subforum at I, Voyager](https://www.ivoyager.dev/forum/index.php?p=/categories/astropolis)
 * [Twitter (@t2civ)](https://twitter.com/t2civ)
 * [Facebook (/t2civ)](https://www.facebook.com/t2civ/)
-* [Public repository containing content data tables, GUI, and game AI](https://github.com/charliewhitfield/astropolis_public) (this repository)
+* [Public repository containing content data tables, GUI, and game AI](https://github.com/charliewhitfield/astropolis_public)
 * [Public development builds (most definitely NOT alpha yet!)](https://github.com/charliewhitfield/astropolis_public/releases)
